@@ -1,0 +1,90 @@
+.box {
+    height: 360px;
+    background: black;
+    width: 60%;
+    border-style: solid;
+    border-color: #DCCA87;
+    color: white;
+}
+
+#f1 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#f2 {
+    font-size: 65px;
+    color: #DCCA87;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box input {
+
+    width: 650px;
+    height: 40px;
+    margin-right: 50px;
+    border-radius: 5px;
+    border-color: #DCCA87;
+    border-width: 3px;
+    background: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box button {
+
+    height: 40px;
+    width: 100px;
+    background: #F5EFDB;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+#n1 {
+    height: 350px;
+    width: 30%;
+    margin-left: 90px;
+    margin-top: 80px;
+    color: white;
+    
+}
+
+#n2 {
+    height: 100;
+    width: 30%;
+    margin-top: 90px;
+    color: white;
+    
+}
+
+#n3 {
+    height: 100;
+    width: 20%;
+    margin-top: 80px;
+    color: white;
+    
+}
+
+.cont {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.add {
+    font-size: 15px;
+}
+.work{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.align{
+    margin-right: 100px;
+}
+
+.fi:hover{
+    color: #DCCA87;
+    cursor: pointer;
+}
